@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20260208-121238-7lkf",
+    "title": "Victus Grave",
+    "commanders": [
+      "Victus Grave"
+    ],
+    "dateStart": "2026-02-08T20:12:38.000Z",
+    "dateEnd": "2026-02-08T21:58:30.000Z",
+    "dateLabel": "2/8/2026, 12:12:38 PM - 2/8/2026, 1:58:30 PM",
+    "url": "https://gw2eww.github.io/fight-reports-test/?report=20260208-121238-7lkf",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 11,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 9,
+      "avgEnemySize": 19
+    }
+  }
+]
