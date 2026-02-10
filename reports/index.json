@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260209-191240-jn1w",
+    "title": "Not Haro",
+    "commanders": [
+      "Not Haro"
+    ],
+    "dateStart": "2026-02-10T03:12:40.000Z",
+    "dateEnd": "2026-02-10T03:27:28.000Z",
+    "dateLabel": "2/9/2026, 7:12:40 PM - 2/9/2026, 7:27:28 PM",
+    "url": "https://gw2eww.github.io/fight-reports-test/?report=20260209-191240-jn1w",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 46
+    }
+  },
+  {
     "id": "20260208-121238-7lkf",
     "title": "Victus Grave",
     "commanders": [
