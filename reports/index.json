@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260215-194554-3ncz",
+    "title": "Birdman Jackman",
+    "commanders": [
+      "Birdman Jackman"
+    ],
+    "dateStart": "2026-02-16T03:45:54.000Z",
+    "dateEnd": "2026-02-16T03:51:37.000Z",
+    "dateLabel": "2/15/2026, 7:45:54 PM - 2/15/2026, 7:51:37 PM",
+    "url": "https://gw2eww.github.io/fight-reports-test/?report=20260215-194554-3ncz",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 5,
+      "avgEnemySize": 50
+    }
+  },
+  {
     "id": "20260213-181118-t5m1",
     "title": "Reven The Big Show",
     "commanders": [
