@@ -1,6 +1,6 @@
 {
-  "id": "MatteSlate",
-  "label": "Matte Slate",
-  "rgb": "93, 163, 194",
-  "pattern": "linear-gradient(to bottom, #222629, #222629)"
+  "id": "KineticPaper",
+  "label": "Kinetic Paper",
+  "rgb": "154, 133, 99",
+  "pattern": "linear-gradient(to bottom, #e9e3d8, #e9e3d8)"
 }
