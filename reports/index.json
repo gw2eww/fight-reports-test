@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260215-183549-ec3z",
+    "title": "Birdman Jackman",
+    "commanders": [
+      "Birdman Jackman"
+    ],
+    "dateStart": "2026-02-16T02:35:49.000Z",
+    "dateEnd": "2026-02-16T03:51:37.000Z",
+    "dateLabel": "2/15/2026, 6:35:49 PM - 2/15/2026, 7:51:37 PM",
+    "url": "https://gw2eww.github.io/fight-reports-test/?report=20260215-183549-ec3z",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 36,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 4,
+      "avgEnemySize": 41
+    }
+  },
+  {
     "id": "20260214-180501-92vp",
     "title": "Not Haro",
     "commanders": [
