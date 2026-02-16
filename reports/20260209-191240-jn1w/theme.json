@@ -1,6 +1,6 @@
 {
-  "id": "Arcane",
-  "label": "Arcane",
-  "rgb": "136, 116, 255",
-  "pattern": "radial-gradient(at 0% 0%, hsla(250, 70%, 18%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(220, 80%, 22%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(270, 65%, 20%, 1) 0, transparent 70%)"
+  "id": "KineticPaper",
+  "label": "Kinetic Paper",
+  "rgb": "154, 133, 99",
+  "pattern": "linear-gradient(to bottom, #e9e3d8, #e9e3d8)"
 }
