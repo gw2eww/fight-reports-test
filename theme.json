@@ -1,6 +1,6 @@
 {
-  "id": "KineticPaper",
-  "label": "Kinetic Paper",
-  "rgb": "154, 133, 99",
-  "pattern": "linear-gradient(to bottom, #e9e3d8, #e9e3d8)"
+  "id": "KineticPaperDark",
+  "label": "Kinetic Paper (Dark)",
+  "rgb": "142, 155, 214",
+  "pattern": "linear-gradient(to bottom, #2b3048, #2b3048)"
 }
